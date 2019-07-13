@@ -1,0 +1,88 @@
+{
+   "date": {
+      "display_name": "Fecha",
+      "value": "2019-06-28"
+   },
+   "route": {
+      "display_name": "D01",
+      "value": ""
+   },
+   "vehicle": {
+      "display_name": "Vehiculo",
+      "value": ""
+   },
+   "telephone": {
+      "display_name": "Avantel",
+      "value": ""
+   },
+   "aditional_forms": {
+      "display_name": "Planillas Adicionales",
+      "value": ""
+   },
+   "visits": [
+      {
+         "code": "10822",
+         "client": "CIUDAD CANINA",
+         "address": "CL 169 B 67 61",
+         "city_division": "PORTALES DEL NORTE",
+         "category": "MPB",
+         "bio_category": "enabled",
+         "ana_category": "enabled",
+         "cut_category": "enabled",
+         "animal_category": "enabled",
+         "order": "7"
+      },
+      {
+         "code": "35459",
+         "client": "SAMPATTI INMOBILIARIA SAS",
+         "address": "CL 169 B 67 61",
+         "city_division": "SAN JOSE DE BAVARIA",
+         "category": "MPC",
+         "bio_category": "enabled",
+         "ana_category": "enabled",
+         "cut_category": "disabled",
+         "animal_category": "enabled",
+         "order": "94"
+      }
+   ],
+   "driver_name": {
+      "display_name": "Nombre Conductor",
+      "value": ""
+   },
+   "driver_signature": {
+      "display_name": "Firma Conductor",
+      "value": ""
+   },
+   "auxiliar_name": {
+      "display_name": "Nombre Ayudante",
+      "value": ""
+   },
+   "auxiliar_signature": {
+      "display_name": "Firma Ayudante",
+      "value": ""
+   },
+   "departure_time": {
+      "display_name": "Hora Salida Base",
+      "value": ""
+   },
+   "arrival_time": {
+      "display_name": "Hora LLegada Base",
+      "value": ""
+   },
+   "total_ana": {
+      "display_name": "Total Kilos Ana",
+      "value": ""
+   },
+   "total_bio": {
+      "display_name": "Total Kilos Bio",
+      "value": ""
+   },
+   "enabled_micros": {
+      "display_name": "Micros Habilitados",
+      "value": ""
+   },
+   "total_manifests": {
+      "display_name": "Total Manifiestos",
+      "value": ""
+   }
+}
