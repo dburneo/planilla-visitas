@@ -6,4 +6,4 @@ Para solicitar el Token en línea de comando: http http://localhost:8000/api-tok
 
 También se puede solicitar el Token ingresando por el explorador Web a la url http http://localhost:8000/admin con las mismas credenciales.
 
-Si se ingresa la línea de comando con la url y el Token: http http://localhost:8000/ticketpqr/ 'Authorization: Token e9255691e3e157e685a945adb7af60e58da66fac' muestra el binario del pdf.
+Si se ingresa la línea de comando con la url y el Token: http http://localhost:8000 'Authorization: Token e9255691e3e157e685a945adb7af60e58da66fac' muestra el binario del pdf.
